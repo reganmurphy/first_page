@@ -1,0 +1,25 @@
+
+          
+ img { 
+    width:100%;
+    height: auto; 
+          }
+          
+ p{   
+ color:olivedrab
+          }
+body{font-family: monospace;
+background-color:antiquewhite;
+}
+          
+h1{
+    
+    font-family: sans-serif;
+        font-size: 2rem;
+    color: purple;
+}
+
+.container{
+    max-width: 36em;
+    margin: 0 auto; 
+}
